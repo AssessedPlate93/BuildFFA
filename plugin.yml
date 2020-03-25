@@ -1,0 +1,19 @@
+name:
+api: 3.0.0
+version: 2.0.1
+author: 
+  - r3pt1s
+  - ceepkev77
+main: BuildFFA\BuildFFA
+description: selfmade by RoyaleGames-Development (ceepkev77, r3pt1s)
+commands:
+  buildffa:
+    description: "BuildFFA Command"
+    usage: "/buildffa"
+    permission: "bffa.cmd"
+  stats:
+   description: "Stats"
+   usage: "/stats"
+  coins:
+   description: "Coins"
+   usage: "/coins"
